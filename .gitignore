@@ -1,0 +1,6 @@
+build/**
+debug/**
+.vscode/**
+**/*.o
+test/.nfs*
+test/big_test.txt
